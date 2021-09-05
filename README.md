@@ -3,18 +3,6 @@
 ## Overview of Project
 Louise has recently successfully concluded crowdfunding campaign for the play "Fever". The estimated cost of the play is $10,000. 
 
-Post the campaign Louise wanted to analyze historical kickstarter campaign data in order to better understand what were the factors, if any, that contributed towards success or failure of a crowdfunding campaign
-
-### Purpose
-This report aim to review the historical data of the kickstarter campaigns and analyse if:
-- The launch date of the campaigns were contributing factor in campaign being failed vs successful
-- The target goal of the campaigns contributed in success or failure of the campaigns
-
-# An Analysis of Kickstarter Campaign
-
-## Overview of Project
-Louise has recently successfully concluded crowdfunding campaign for the play "Fever". The estimated cost of the play is $10,000. 
-
 Post the campaign Louise wanted to analyze historical Kickstarter campaign data in order to better understand what were the factors, if any, that contributed towards success or failure of a crowdfunding campaign
 
 ### Purpose
@@ -56,9 +44,8 @@ As the campaign goal increase the probability of failure also increases based on
 
 - What are some limitations of this dataset?
 The dataset doesn’t include characteristics of the campaigns such as:
-- Locations of the plays, were they organized in big cities or small towns
-- How the campaigners reached their target audience, any use of social or digital media?
-
+	- Locations of the plays, were they organized in big cities or small towns
+	- How the campaigners reached their target audience, any use of social or digital media?
 As information such as these may provide clues as what type of campaigns are successful 
 
 - What are some other possible tables and/or graphs that we could create?
