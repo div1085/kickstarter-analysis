@@ -16,7 +16,7 @@ From the Kickstarter data, the campaigns with similar sub catergory as to play "
 ### Analysis of Outcomes Based on Launch Date
 In the theater category total of 1369 campaigns were launched, out of those 61% or 839 campaigns were successful. Most of the campaigns were lauched during the months of May to August(please refer to linechart below)
 
-![Linechart](/assets/images/Resources/Theater_Outcomes_vs_Launch.png)
+![Linechart](https://github.com/div1085/kickstarter-analysis/blob/65ace00083f249d75a65286b3306f5b7a156d701/Resources/Theater_Outcomes_vs_Launch.png)
 
 
 
