@@ -1,5 +1,4 @@
 # An Analysis of Kickstarter Campaign
-# Kickstarting with Excel
 
 ## Overview of Project
 Louise has recently successfully concluded crowdfunding campaign for the play "Fever". The estimated cost of the play is $10,000. 
@@ -12,10 +11,16 @@ This report aim to review the historical data of the kickstarter campaigns and a
 - The target goal of the campaigns contributed in success or failure of the campaigns
 
 ## Analysis and Challenges
+From the Kickstarter data, the campaigns with similar sub catergory as to play "Fever" were selected to be analyzed. Further, outcomes based on launch date and campaign goal size were analyzed.
 
 ### Analysis of Outcomes Based on Launch Date
+In the theater category total of 1369 campaigns were launched, out of those 61% or 839 campaigns were successful. Most of the campaigns were lauched during the months of May to August(please refer to linechart below)
+
+/assets/images/Resources/Theater_Outcomes_vs_Launch.png
+
 
 ### Analysis of Outcomes Based on Goals
+
 
 ### Challenges and Difficulties Encountered
 
